@@ -1,0 +1,15 @@
+
+.project
+.classpath
+/target/
+.idea/
+*.iml
+classes/
+coverage/
+.gradle/
+/build/
+out/
+.run/
+# Node plugins exclusions
+node_modules
+
